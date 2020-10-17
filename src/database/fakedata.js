@@ -4,7 +4,8 @@ module.exports = [
         lat: "-27.2219689",
         lng: "-49.639186",
         name: "Lar das Meninas",
-        description: "Presta assistencia a crianças meninas", 
+        description: "Presta assistencia a crianças meninas",
+        whatsapp: "1234567" 
         images: [
             "https://images.unsplash.com/photo-1597791366640-e91489aaf430?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9",
             
