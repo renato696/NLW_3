@@ -4,7 +4,7 @@ const path = require('path');
 const pages = require('./pages.js')
 
 //iniciando o express
-const server = express()
+const server = express();
 
 server
 //utilizar body do req
