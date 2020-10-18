@@ -81,12 +81,12 @@ function deleteField (event) {
         input.value = button.dataset.value;
     }
 
-    function validate(event) {
-        //event.prevent.Default()
-        const needsLatAndLng = true;
-        if (needsLatAndLng) {
-            event.prevent.Default()
-            alert("Selecione um ponto no mapa")
-        }
-    }
+    ///function validate(event) {
+    ///    //event.prevent.Default()
+    ///    const needsLatAndLng = true;
+    ///    if (needsLatAndLng) {
+    ///        event.prevent.Default()
+    ///        alert("Selecione um ponto no mapa")
+    ///    }
+    ///}
 
