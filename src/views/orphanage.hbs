@@ -41,11 +41,12 @@
         
         <main class="animate-appear with-sidebar">
             <div class="orphanage-details">
-                <img src="{{orphanage.firstImage}}" alt="{{orphanage.name}}>
+                <img src="{{orphanage.firstImage}}" alt="{{orphanage.name}}"/>
+
                 <div class="images">
                     {{#each orphanage.images }}
                         <button onclick="selectImage(event)" class="active" type="button">
-                            <img src="{{this}}" alt="{{orphanage.name}}">
+                            <img src="{{this}}" alt="{{orphanage.name}}" />
                         </button>
                     {{/each}}
                 </div>

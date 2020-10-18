@@ -31,7 +31,7 @@ main {
 }
 
 .images button {
-    border: none;
+    border: 0;
     background: none;
 
     height: 8.8rem;

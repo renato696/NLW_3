@@ -82,7 +82,7 @@ main h1 {
         width: min(300px, 80%);
     }
 
-    visit {
+    .visit {
         display: flex;
         align-items: center;
         justify-content: space-between;
